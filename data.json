@@ -1,0 +1,8 @@
+{
+  "sender" : "put email here",
+  "loginToken" : "put login token here",
+  "reciever" : "put email here",
+
+  "subject" : "Testing email from java application",
+  "messageText" : "GABOOOOO ONO TO IDE"
+}
