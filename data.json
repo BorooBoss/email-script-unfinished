@@ -1,8 +1,12 @@
 {
-  "sender" : "put email here",
-  "loginToken" : "put login token here",
-  "reciever" : "put email here",
+  "sender" : "your email",
+  "loginToken" : "your login token",
+  "recievers" : [
+                "email1@gmail.com",
+                "email2@gmail.com"
+                ],
 
-  "subject" : "Testing email from java application",
-  "messageText" : "GABOOOOO ONO TO IDE"
+
+  "subject" : "Last test",
+  "messageText" : "Nazdar kote"
 }
